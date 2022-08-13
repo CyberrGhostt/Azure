@@ -1,0 +1,6 @@
+{
+    "name": "Azure", 
+    "msg": "Hello There",
+    "temperature": "24",
+    "humadity": "34"
+}
